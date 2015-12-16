@@ -153,7 +153,7 @@ public class GraphGUI {
         /** Event handler for RmvNode button */
         public void actionPerformed(ActionEvent e) {
             mode = InputMode.RMV_NODES;
-            instr.setText("Click to remove nodes");
+            instr.setText("Click to remove node");
         }
     }
 
@@ -162,7 +162,7 @@ public class GraphGUI {
         /** Event handler for AddEdge button */
         public void actionPerformed(ActionEvent e) {
             mode = InputMode.ADD_EDGES;
-            instr.setText("Click to two existing nodes to add a new edge");
+            instr.setText("Click on two existing nodes to add a new edge");
         }
     }
 
@@ -199,7 +199,7 @@ public class GraphGUI {
         /** Event handler for Dijkstra button */
         public void actionPerformed(ActionEvent e) {
             mode = InputMode.DIJKSTRA;
-            instr.setText("Click to on starting for Dijkstra's");
+            instr.setText("Click on starting node for Dijkstra's Shortest Path");
         }
     }
 
