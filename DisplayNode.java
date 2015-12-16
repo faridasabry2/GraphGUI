@@ -1,7 +1,7 @@
 import java.awt.*;
 import javax.swing.*;     
 /**
- *
+ *  A data representation of the Node class
  *
  *  @author Farida Sabry
  *  @version December 13, 2015
