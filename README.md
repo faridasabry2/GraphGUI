@@ -1,2 +1,3 @@
 # GraphGUI
-A GUI-representation of graphs
+A Stand-alone Java GUI application to create graphs and perform traversals on the nodes.
+
